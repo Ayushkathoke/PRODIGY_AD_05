@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/fragment_scan.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/item_history.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/item_history.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/activity_generated_code.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_generated_code.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/activity_about_us.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/fragment_generate.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/fragment_generate.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/progresss_dialog_layout.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/progresss_dialog_layout.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/fragment_history.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/activity_home.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_home.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/activity_picked_from_gallery.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_picked_from_gallery.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/activity_privay_policy.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_privay_policy.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/activity_scan_result.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_scan_result.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-mergeDebugResources-3:/layout/activity_settings.xml",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_settings.xml"
+    }
+]

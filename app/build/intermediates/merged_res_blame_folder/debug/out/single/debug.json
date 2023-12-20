@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_generate_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_generate_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_main_logo.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_main_logo.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_gallery.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_gallery.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_share_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_share_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_flash_off.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_flash_off.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_settings.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_settings.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_history_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_history_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_fragment_generate.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/fragment_generate.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_generate_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_generate_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_gallery.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_gallery.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_scan_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_scan_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_printer_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_printer_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_main_logo.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_main_logo.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_flash_off.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_flash_off.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_history_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_history_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_activity_home.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_home.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_scan_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_scan_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_history_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_history_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_activity_generated_code.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_generated_code.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/font_opensans_regular.ttf.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/font/opensans_regular.ttf"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_main_logo.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_main_logo.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_gallery.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_gallery.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_history_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_history_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_generate_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_generate_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_printer_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_printer_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_scan_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_scan_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_item_history.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/item_history.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_download_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_download_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_activity_picked_from_gallery.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_picked_from_gallery.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable_gradient_button_primary_color_and_accent_color.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable/gradient_button_primary_color_and_accent_color.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_generate_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_generate_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_scan_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_scan_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_scan_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_scan_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_history_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_history_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_share_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_share_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable_custom_gradient_button_background_selector.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable/custom_gradient_button_background_selector.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_download_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_download_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_generate_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_generate_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_flash_off.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_flash_off.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/color_spinner_item_color_selector.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/color/spinner_item_color_selector.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_empty.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_empty.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_printer_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_printer_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_generate_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_generate_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_download_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_download_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_download_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_download_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_flash_on.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_flash_on.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_flash_off.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_flash_off.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_activity_settings.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_scan_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_scan_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_printer_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_printer_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_activity_privay_policy.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_privay_policy.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_printer_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_printer_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_share_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_share_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_history_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_history_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable_custom_gradient_button_disabled.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable/custom_gradient_button_disabled.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_activity_about_us.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_history_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_history_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_scan_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_scan_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_flash_off.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_flash_off.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_flash_on.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_flash_on.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_fragment_scan.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_main_logo.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_main_logo.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_download_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_download_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_share_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_share_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_settings.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_settings.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_gallery.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_gallery.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_scan_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_scan_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_main_logo.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_main_logo.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_settings.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_settings.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_activity_scan_result.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_scan_result.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_flash_off.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_flash_off.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_gallery.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_gallery.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_history_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_history_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_gallery.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_gallery.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_generate_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_generate_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_activity_splash.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_generate_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_generate_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/xml_file_provider_paths.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/xml/file_provider_paths.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable_gradient_title_bar_primary_color_and_accent_color.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable/gradient_title_bar_primary_color_and_accent_color.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_history_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_history_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/anim_fade_in_without_duration.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/anim/fade_in_without_duration.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_share_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_share_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_item_spinner.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/item_spinner.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_settings.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_settings.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_flash_on.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_flash_on.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_generate_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_generate_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_main_logo.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_main_logo.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_generate_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_generate_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_settings.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_settings.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_settings.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_settings.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable_custom_gradient_button_enabled.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable/custom_gradient_button_enabled.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-mdpi_ic_flash_on.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-mdpi/ic_flash_on.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_generate_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_generate_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_scan_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_scan_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_flash_on.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_flash_on.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_history_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_history_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable_text_view_background_gray_color.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable/text_view_background_gray_color.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_printer_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_printer_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_scan_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_scan_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_generate_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_generate_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/menu_home_toolbar_menu.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/menu/home_toolbar_menu.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_progresss_dialog_layout.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/progresss_dialog_layout.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/layout_fragment_history.xml.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-ldpi_ic_download_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-ldpi/ic_download_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_history_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_history_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxhdpi_ic_flash_on.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxhdpi/ic_flash_on.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_share_white.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_share_white.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xhdpi_ic_history_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xhdpi/ic_history_active.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-xxxhdpi_ic_scan_inactive.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-xxxhdpi/ic_scan_inactive.webp"
+    },
+    {
+        "merged": "wasakey.w3apps.com.qrcode.app-merged_res-4:/drawable-hdpi_ic_scan_active.webp.flat",
+        "source": "wasakey.w3apps.com.qrcode.app-main-6:/drawable-hdpi/ic_scan_active.webp"
+    }
+]

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="wasakey.w3apps.com.qrcode">
+    package="ayush.kathoke.com.qrcode">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -9,7 +9,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
-        android:name="wasakey.w3apps.com.qrcode.QRCobaApplication"
+        android:name="ayush.kathoke.com.qrcode.QRCobaApplication"
         android:allowBackup="false"
         android:hardwareAccelerated="true"
         android:icon="@mipmap/ic_launcher"
@@ -39,10 +39,11 @@
             android:screenOrientation="fullSensor"
             tools:replace="screenOrientation" />
         <activity
-            android:name="wasakey.w3apps.com.qrcode.ui.splash.SplashActivity"
+            android:name="ayush.kathoke.com.qrcode.ui.splash.SplashActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.Launcher">
+            android:theme="@style/AppTheme.Launcher"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -50,38 +51,38 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="wasakey.w3apps.com.qrcode.ui.home.HomeActivity"
+            android:name="ayush.kathoke.com.qrcode.ui.home.HomeActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.GradientStatusBar" />
         <activity
-            android:name="wasakey.w3apps.com.qrcode.ui.settings.SettingsActivity"
+            android:name="ayush.kathoke.com.qrcode.ui.settings.SettingsActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.GradientStatusBar" />
         <activity
-            android:name="wasakey.w3apps.com.qrcode.ui.generatedcode.GeneratedCodeActivity"
+            android:name="ayush.kathoke.com.qrcode.ui.generatedcode.GeneratedCodeActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.GradientStatusBar" />
         <activity
-            android:name="wasakey.w3apps.com.qrcode.ui.scanresult.ScanResultActivity"
+            android:name="ayush.kathoke.com.qrcode.ui.scanresult.ScanResultActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.GradientStatusBar" />
         <activity
-            android:name="wasakey.w3apps.com.qrcode.ui.pickedfromgallery.PickedFromGalleryActivity"
+            android:name="ayush.kathoke.com.qrcode.ui.pickedfromgallery.PickedFromGalleryActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.GradientStatusBar" />
 
         <activity
-            android:name="wasakey.w3apps.com.qrcode.ui.about_us.AboutUsActivity"
+            android:name="ayush.kathoke.com.qrcode.ui.about_us.AboutUsActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.GradientStatusBar" />
 
-        <activity android:name="wasakey.w3apps.com.qrcode.ui.privacy_policy.PrivayPolicyActivity"
+        <activity android:name="ayush.kathoke.com.qrcode.ui.privacy_policy.PrivayPolicyActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.GradientStatusBar"></activity>

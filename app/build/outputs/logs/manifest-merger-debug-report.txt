@@ -1,0 +1,581 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:2:1-91:12
+MERGED from [androidx.databinding:databinding-adapters:8.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\f70e45cacc11799021b5a4f6670e01b0\transformed\databinding-adapters-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\5e378a2a6003b9a54358a4976fb16c65\transformed\databinding-runtime-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\98fc3de8cb75387961de1565638fcb16\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e6a68fc4594fff37a64ae3fac8bb7143\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.agilie:swipe2delete:1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e56249991a8d95ac2a16323088fc216e\transformed\jetified-swipe2delete-1.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\97f43086dbd253d3e8d9b1f8f32a59eb\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4ac0f2d800798ac3ce7a76af8fe311c0\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\ac6fac3e46723729ec103d58fc1007ce\transformed\room-rxjava2-2.1.0-alpha03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a412e92021771aa6edf44bdaf22deb85\transformed\room-runtime-2.1.0-alpha03\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:3.0.2] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\05ed1b30c02889185b2fbc3544979724\transformed\jetified-reactivenetwork-rx2-3.0.2\AndroidManifest.xml:2:1-16:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fff1e399715b7cb970f09483677d5e44\transformed\jetified-rxandroid-2.1.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4092d189e167f15cba93a4b0049325f6\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:17:1-56:12
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a839fbb42934283693cb4583f9ea2a6e\transformed\jetified-play-services-ads-19.4.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\2538b0697fd395b5a79f94232212082e\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\31b0e9abdd952ab37f205f0066f6ef1b\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a2fd9fe31ae158fa08fa10243bce11a3\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\6a399992d865629e1d69cfd998ec7c30\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a8272b7132a5d6e7ee8172c1e674a968\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\217c28616d1500a29fe497798f3632ae\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fad5e956f0d191d430df0c15960469fa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\1c96d6a8f3354c8e45c85dc81e4eb99b\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\eb3118d7212842d811268623bd98951e\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\5c67d8c665acbba3a27bde33648d0c21\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\856a6a63527f27c5bef55901d017557b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d57c48c92414932ca637b72caf5e45d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\700d9f4868d5349574f1902fee118be3\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\03208cd92e2b7a5c18baec46861dc4d3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\29c5d20808de33b4b4e2f4b0cbf5b6ee\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4d7cde54399572c74ec80ca877ed89f9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\28a7db93659cca97ee2180d398d31546\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\cdbd517e6844d1bceee198e3bf1b371e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\267cb961ba4c563932bab14865cd0363\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\002c7bef3a5b450527f770b63e2abc98\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\0e2949b26d271d065fd3d076c2aaa573\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d274c32bffd83aa360731e296a90f11f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e98ab4f7c250de74b440399b2d4ecced\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\adb5282ae9f6ffc48ff1fdb191ca582d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\3ca406ba51951da323b635ad130b6d52\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\94c2d28b73b531c1ca51f36bfa32bf9f\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\ebdda9806e79377dcaa5babc53a42d8f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\3c16d2903a07ad868fe41fa504a4ceec\transformed\jetified-viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\98b4943b2be713e0bb093adc2963e9b1\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\36867d150029a84647957eb7b4d7715f\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8fb4125a9a5a42e5d1cec115e8918b44\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\12040e513b5961aa1bdb50627e390b68\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\088d9060f181f5d18906e7a08122969d\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\909dfe99be248bb21ba7932ab8b17550\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\9eb27526ac9bb145371b7a50a7e1377c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d9c367caa6b8078aa018ee16a7df1d29\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\960114a1863db336ea1fb9a40d982ece\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\cf4af731368168985408c358debdf31c\transformed\sqlite-framework-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\471ecd9b358f2ed2afd0d96e9ebed756\transformed\sqlite-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\2f11a50805205a05e3008839124abdf6\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\47ac6e982668c7f3c09a847bd44c182a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d3a7855c68d189fa8998d3dfaa1d419f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\43ba6f97e942fb3c087233699f5ea349\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8eeb8f2154246fb05dd6c921dbaa4b07\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8422318e41995a931fb6933fb2e0a4a3\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\df8edd164886f1a1161ad9787d71c1c3\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e6ec81f04053cb4bcaf821e0fe9e2159\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\f329635ad603836ea8a8a9b51de72600\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:3.0.2] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\05ed1b30c02889185b2fbc3544979724\transformed\jetified-reactivenetwork-rx2-3.0.2\AndroidManifest.xml:11:5-79
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:3.0.2] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\05ed1b30c02889185b2fbc3544979724\transformed\jetified-reactivenetwork-rx2-3.0.2\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\6a399992d865629e1d69cfd998ec7c30\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\6a399992d865629e1d69cfd998ec7c30\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:3.0.2] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\05ed1b30c02889185b2fbc3544979724\transformed\jetified-reactivenetwork-rx2-3.0.2\AndroidManifest.xml:12:5-67
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:3.0.2] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\05ed1b30c02889185b2fbc3544979724\transformed\jetified-reactivenetwork-rx2-3.0.2\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\6a399992d865629e1d69cfd998ec7c30\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\6a399992d865629e1d69cfd998ec7c30\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:9:22-63
+application
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:11:5-89:19
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:11:5-89:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\98fc3de8cb75387961de1565638fcb16\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\98fc3de8cb75387961de1565638fcb16\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e6a68fc4594fff37a64ae3fac8bb7143\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e6a68fc4594fff37a64ae3fac8bb7143\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4ac0f2d800798ac3ce7a76af8fe311c0\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4ac0f2d800798ac3ce7a76af8fe311c0\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a412e92021771aa6edf44bdaf22deb85\transformed\room-runtime-2.1.0-alpha03\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a412e92021771aa6edf44bdaf22deb85\transformed\room-runtime-2.1.0-alpha03\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:3.0.2] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\05ed1b30c02889185b2fbc3544979724\transformed\jetified-reactivenetwork-rx2-3.0.2\AndroidManifest.xml:14:5-20
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:3.0.2] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\05ed1b30c02889185b2fbc3544979724\transformed\jetified-reactivenetwork-rx2-3.0.2\AndroidManifest.xml:14:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\31b0e9abdd952ab37f205f0066f6ef1b\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\31b0e9abdd952ab37f205f0066f6ef1b\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a2fd9fe31ae158fa08fa10243bce11a3\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a2fd9fe31ae158fa08fa10243bce11a3\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a8272b7132a5d6e7ee8172c1e674a968\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a8272b7132a5d6e7ee8172c1e674a968\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\217c28616d1500a29fe497798f3632ae\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\217c28616d1500a29fe497798f3632ae\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fad5e956f0d191d430df0c15960469fa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fad5e956f0d191d430df0c15960469fa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\94c2d28b73b531c1ca51f36bfa32bf9f\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\94c2d28b73b531c1ca51f36bfa32bf9f\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\ebdda9806e79377dcaa5babc53a42d8f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\ebdda9806e79377dcaa5babc53a42d8f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d9c367caa6b8078aa018ee16a7df1d29\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d9c367caa6b8078aa018ee16a7df1d29\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8422318e41995a931fb6933fb2e0a4a3\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8422318e41995a931fb6933fb2e0a4a3\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\f329635ad603836ea8a8a9b51de72600\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\f329635ad603836ea8a8a9b51de72600\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\94c2d28b73b531c1ca51f36bfa32bf9f\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:16:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:14:9-43
+	tools:ignore
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:21:9-48
+	android:roundIcon
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:13:9-36
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:19:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:12:9-67
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:23:9-25:52
+	android:value
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:24:13-69
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:grantUriPermissions
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:31:13-47
+	android:authorities
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:29:13-66
+	android:exported
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:28:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:32:13-34:63
+	android:resource
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:33:17-67
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:37:9-40:49
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+	android:screenOrientation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:39:13-51
+		REJECTED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+	tools:replace
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:40:13-46
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:38:13-74
+activity#wasakey.w3apps.com.qrcode.ui.splash.SplashActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:41:9-52:20
+	android:screenOrientation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:44:13-49
+	android:launchMode
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:43:13-43
+	android:exported
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:46:13-36
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:45:13-53
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:42:13-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:50:27-74
+activity#wasakey.w3apps.com.qrcode.ui.home.HomeActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:53:9-57:65
+	android:screenOrientation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:56:13-49
+	android:launchMode
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:55:13-43
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:57:13-62
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:54:13-74
+activity#wasakey.w3apps.com.qrcode.ui.settings.SettingsActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:58:9-62:65
+	android:screenOrientation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:61:13-49
+	android:launchMode
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:60:13-43
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:62:13-62
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:59:13-82
+activity#wasakey.w3apps.com.qrcode.ui.generatedcode.GeneratedCodeActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:63:9-67:65
+	android:screenOrientation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:66:13-49
+	android:launchMode
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:65:13-43
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:67:13-62
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:64:13-92
+activity#wasakey.w3apps.com.qrcode.ui.scanresult.ScanResultActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:68:9-72:65
+	android:screenOrientation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:71:13-49
+	android:launchMode
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:70:13-43
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:72:13-62
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:69:13-86
+activity#wasakey.w3apps.com.qrcode.ui.pickedfromgallery.PickedFromGalleryActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:73:9-77:65
+	android:screenOrientation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:76:13-49
+	android:launchMode
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:75:13-43
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:77:13-62
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:74:13-100
+activity#wasakey.w3apps.com.qrcode.ui.about_us.AboutUsActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:79:9-83:65
+	android:screenOrientation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:82:13-49
+	android:launchMode
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:81:13-43
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:83:13-62
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:80:13-81
+activity#wasakey.w3apps.com.qrcode.ui.privacy_policy.PrivayPolicyActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:85:9-88:74
+	android:screenOrientation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:87:13-49
+	android:launchMode
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:86:13-43
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:88:13-62
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml:85:19-98
+uses-sdk
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\f70e45cacc11799021b5a4f6670e01b0\transformed\databinding-adapters-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\f70e45cacc11799021b5a4f6670e01b0\transformed\databinding-adapters-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\5e378a2a6003b9a54358a4976fb16c65\transformed\databinding-runtime-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\5e378a2a6003b9a54358a4976fb16c65\transformed\databinding-runtime-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\98fc3de8cb75387961de1565638fcb16\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\98fc3de8cb75387961de1565638fcb16\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e6a68fc4594fff37a64ae3fac8bb7143\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e6a68fc4594fff37a64ae3fac8bb7143\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.agilie:swipe2delete:1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e56249991a8d95ac2a16323088fc216e\transformed\jetified-swipe2delete-1.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.agilie:swipe2delete:1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e56249991a8d95ac2a16323088fc216e\transformed\jetified-swipe2delete-1.0\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\97f43086dbd253d3e8d9b1f8f32a59eb\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\97f43086dbd253d3e8d9b1f8f32a59eb\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4ac0f2d800798ac3ce7a76af8fe311c0\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4ac0f2d800798ac3ce7a76af8fe311c0\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\ac6fac3e46723729ec103d58fc1007ce\transformed\room-rxjava2-2.1.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\ac6fac3e46723729ec103d58fc1007ce\transformed\room-rxjava2-2.1.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a412e92021771aa6edf44bdaf22deb85\transformed\room-runtime-2.1.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a412e92021771aa6edf44bdaf22deb85\transformed\room-runtime-2.1.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:3.0.2] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\05ed1b30c02889185b2fbc3544979724\transformed\jetified-reactivenetwork-rx2-3.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:3.0.2] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\05ed1b30c02889185b2fbc3544979724\transformed\jetified-reactivenetwork-rx2-3.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fff1e399715b7cb970f09483677d5e44\transformed\jetified-rxandroid-2.1.0\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fff1e399715b7cb970f09483677d5e44\transformed\jetified-rxandroid-2.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4092d189e167f15cba93a4b0049325f6\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4092d189e167f15cba93a4b0049325f6\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a839fbb42934283693cb4583f9ea2a6e\transformed\jetified-play-services-ads-19.4.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a839fbb42934283693cb4583f9ea2a6e\transformed\jetified-play-services-ads-19.4.0\AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\2538b0697fd395b5a79f94232212082e\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\2538b0697fd395b5a79f94232212082e\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\31b0e9abdd952ab37f205f0066f6ef1b\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\31b0e9abdd952ab37f205f0066f6ef1b\transformed\jetified-play-services-gass-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a2fd9fe31ae158fa08fa10243bce11a3\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a2fd9fe31ae158fa08fa10243bce11a3\transformed\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\6a399992d865629e1d69cfd998ec7c30\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\6a399992d865629e1d69cfd998ec7c30\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a8272b7132a5d6e7ee8172c1e674a968\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a8272b7132a5d6e7ee8172c1e674a968\transformed\jetified-play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\217c28616d1500a29fe497798f3632ae\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\217c28616d1500a29fe497798f3632ae\transformed\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fad5e956f0d191d430df0c15960469fa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fad5e956f0d191d430df0c15960469fa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\1c96d6a8f3354c8e45c85dc81e4eb99b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\1c96d6a8f3354c8e45c85dc81e4eb99b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\eb3118d7212842d811268623bd98951e\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\eb3118d7212842d811268623bd98951e\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\5c67d8c665acbba3a27bde33648d0c21\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\5c67d8c665acbba3a27bde33648d0c21\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\856a6a63527f27c5bef55901d017557b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\856a6a63527f27c5bef55901d017557b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d57c48c92414932ca637b72caf5e45d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d57c48c92414932ca637b72caf5e45d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\700d9f4868d5349574f1902fee118be3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\700d9f4868d5349574f1902fee118be3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\03208cd92e2b7a5c18baec46861dc4d3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\03208cd92e2b7a5c18baec46861dc4d3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\29c5d20808de33b4b4e2f4b0cbf5b6ee\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\29c5d20808de33b4b4e2f4b0cbf5b6ee\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4d7cde54399572c74ec80ca877ed89f9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\4d7cde54399572c74ec80ca877ed89f9\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\28a7db93659cca97ee2180d398d31546\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\28a7db93659cca97ee2180d398d31546\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\cdbd517e6844d1bceee198e3bf1b371e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\cdbd517e6844d1bceee198e3bf1b371e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\267cb961ba4c563932bab14865cd0363\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\267cb961ba4c563932bab14865cd0363\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\002c7bef3a5b450527f770b63e2abc98\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\002c7bef3a5b450527f770b63e2abc98\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\0e2949b26d271d065fd3d076c2aaa573\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\0e2949b26d271d065fd3d076c2aaa573\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d274c32bffd83aa360731e296a90f11f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d274c32bffd83aa360731e296a90f11f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e98ab4f7c250de74b440399b2d4ecced\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e98ab4f7c250de74b440399b2d4ecced\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\adb5282ae9f6ffc48ff1fdb191ca582d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\adb5282ae9f6ffc48ff1fdb191ca582d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\3ca406ba51951da323b635ad130b6d52\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\3ca406ba51951da323b635ad130b6d52\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\94c2d28b73b531c1ca51f36bfa32bf9f\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\94c2d28b73b531c1ca51f36bfa32bf9f\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\ebdda9806e79377dcaa5babc53a42d8f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\ebdda9806e79377dcaa5babc53a42d8f\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\3c16d2903a07ad868fe41fa504a4ceec\transformed\jetified-viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\3c16d2903a07ad868fe41fa504a4ceec\transformed\jetified-viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\98b4943b2be713e0bb093adc2963e9b1\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\98b4943b2be713e0bb093adc2963e9b1\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\36867d150029a84647957eb7b4d7715f\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\36867d150029a84647957eb7b4d7715f\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8fb4125a9a5a42e5d1cec115e8918b44\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8fb4125a9a5a42e5d1cec115e8918b44\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\12040e513b5961aa1bdb50627e390b68\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\12040e513b5961aa1bdb50627e390b68\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\088d9060f181f5d18906e7a08122969d\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\088d9060f181f5d18906e7a08122969d\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\909dfe99be248bb21ba7932ab8b17550\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\909dfe99be248bb21ba7932ab8b17550\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\9eb27526ac9bb145371b7a50a7e1377c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\9eb27526ac9bb145371b7a50a7e1377c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d9c367caa6b8078aa018ee16a7df1d29\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d9c367caa6b8078aa018ee16a7df1d29\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\960114a1863db336ea1fb9a40d982ece\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\960114a1863db336ea1fb9a40d982ece\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\cf4af731368168985408c358debdf31c\transformed\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\cf4af731368168985408c358debdf31c\transformed\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\471ecd9b358f2ed2afd0d96e9ebed756\transformed\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\471ecd9b358f2ed2afd0d96e9ebed756\transformed\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\2f11a50805205a05e3008839124abdf6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\2f11a50805205a05e3008839124abdf6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\47ac6e982668c7f3c09a847bd44c182a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\47ac6e982668c7f3c09a847bd44c182a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d3a7855c68d189fa8998d3dfaa1d419f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d3a7855c68d189fa8998d3dfaa1d419f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\43ba6f97e942fb3c087233699f5ea349\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\43ba6f97e942fb3c087233699f5ea349\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8eeb8f2154246fb05dd6c921dbaa4b07\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8eeb8f2154246fb05dd6c921dbaa4b07\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8422318e41995a931fb6933fb2e0a4a3\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8422318e41995a931fb6933fb2e0a4a3\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\df8edd164886f1a1161ad9787d71c1c3\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\df8edd164886f1a1161ad9787d71c1c3\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e6ec81f04053cb4bcaf821e0fe9e2159\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e6ec81f04053cb4bcaf821e0fe9e2159\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\f329635ad603836ea8a8a9b51de72600\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\f329635ad603836ea8a8a9b51de72600\transformed\jetified-play-services-ads-base-19.4.0\AndroidManifest.xml:5:5-44
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a839fbb42934283693cb4583f9ea2a6e\transformed\jetified-play-services-ads-19.4.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\Qr-Code-Scanner\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a412e92021771aa6edf44bdaf22deb85\transformed\room-runtime-2.1.0-alpha03\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a412e92021771aa6edf44bdaf22deb85\transformed\room-runtime-2.1.0-alpha03\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha03] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\a412e92021771aa6edf44bdaf22deb85\transformed\room-runtime-2.1.0-alpha03\AndroidManifest.xml:24:13-74
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:22:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\e214009dd08be0708000ce7687503f1b\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:43:9-45
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:36:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:41:9-44:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\bda0d8ff4e952b08aae2bed643c91551\transformed\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:42:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\6a399992d865629e1d69cfd998ec7c30\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\6a399992d865629e1d69cfd998ec7c30\transformed\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fad5e956f0d191d430df0c15960469fa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fad5e956f0d191d430df0c15960469fa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\fad5e956f0d191d430df0c15960469fa\transformed\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8422318e41995a931fb6933fb2e0a4a3\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\8422318e41995a931fb6933fb2e0a4a3\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\ASUS\AndroidStudioProjects\todo-list\caches\transforms-3\d7e75382fd4fb70314ddb3a6f5c689ec\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

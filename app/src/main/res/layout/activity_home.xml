@@ -177,7 +177,7 @@
             app:layout_constraintTop_toTopOf="@+id/constraint_layout_history_container"
             app:layout_constraintVertical_chainStyle="packed" />
 
-        <wasakey.w3apps.com.qrcode.helpers.widget.BaseStatusBar
+        <ayush.kathoke.com.qrcode.helpers.widget.BaseStatusBar
             android:id="@+id/status_bar"
             android:layout_width="0dp"
             android:layout_height="wrap_content"

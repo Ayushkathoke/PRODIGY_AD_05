@@ -6,7 +6,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <wasakey.w3apps.com.qrcode.helpers.widget.BaseStatusBar
+        <ayush.kathoke.com.qrcode.helpers.widget.BaseStatusBar
             android:id="@+id/status_bar"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
